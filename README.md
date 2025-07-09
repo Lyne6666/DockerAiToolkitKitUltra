@@ -1,2 +1,1 @@
-# DockerAiToolkitKitUltra
-Advanced DockerAiToolkitKitUltra project
+.
